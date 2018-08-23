@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "3a7f5965-05c7-4b49-95d7-c2f95d5e4dfb",
+    "appType": "app",
+    "appDisplayName": "menu test",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "menu test"
+      }
+    }
+  }
+}
